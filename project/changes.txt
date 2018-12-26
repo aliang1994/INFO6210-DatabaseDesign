@@ -1,0 +1,8 @@
+changes made:
+
+-Removed entities related to Podcasts to simplify the overall model (Podcast Series, Catetogies, Downloads). 
+-Clarified that Favorite is one list which contains songs that users have marked "heart" with. Each account only have one such list. We modify the model this way because it's closer to real world scenario. 
+-Changed the relationship between Favorites and User to One-to-One.
+-Changed the relationship between Favorites and Songs to One-to-Many and removed relationship between Favorites and PlayList.
+-Labeled all the primary and foreign keys on ERD.
+

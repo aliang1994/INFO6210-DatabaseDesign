@@ -1,0 +1,36 @@
+Lab1-Part3
+
+Document1:
+{
+    "BusinessEntityID": "275",
+    "LastName": "Blythe",
+    "FirstName": "Michael",
+    "Territory": {
+        "TerritoryID": "2",
+        "Name": "Northeast"
+    }
+}
+
+
+Document2:
+{
+    "BusinessEntityID": "276",
+    "LastName": "Mitchell",
+    "FirstName": "Linda",
+    "Territory": {
+        "TerritoryID": "4",
+        "Name": "Southwest"
+    }
+}
+
+
+Document3:
+{
+    "BusinessEntityID": "277",
+    "LastName": "Carson",
+    "FirstName": "Jillian",
+    "Territory": {
+        "TerritoryID": "3",
+        "Name": "Central"
+    }
+}
